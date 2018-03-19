@@ -1,0 +1,12 @@
+#ifndef FUNWIDGET_H
+#define FUNWIDGET_H
+
+#include <QtWidgets>
+class FunWidget : public QWidget
+{
+public:
+    FunWidget();
+    QButtonGroup buttonGroup;
+};
+
+#endif // FUNWIDGET_H

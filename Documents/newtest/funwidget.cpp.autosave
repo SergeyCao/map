@@ -1,0 +1,7 @@
+#include "funwidget.h"
+#include <QtWidgets>
+FunWidget::FunWidget()
+{
+    
+}
+
